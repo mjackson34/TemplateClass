@@ -10,6 +10,7 @@ I created this in a single file for ease of use instead of breaking it into a cl
 I did not think it warrented that since it is a simple exercise.
 
 I used SmartGit for creating my local repository, and committing, pushing, and merging in my changes.
+
 */
 
 #include <iostream>
